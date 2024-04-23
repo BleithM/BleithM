@@ -25,9 +25,9 @@
 <!--Intro end-->
 <h2 align="center" border="none">My GitHub Stats</h2>
 <p align="center">
-  <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=BleithM&theme=dark&show_icons=true&hide_border=true&count_private=false">
-  <img heigth="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark&hide_border=true">
-  <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BleithM&theme=dark&show_icons=true&hide_border=true&layout=compact">
+  <img heigth="130em" src="https://github-readme-stats.vercel.app/api?username=BleithM&theme=dark&show_icons=true&hide_border=true&count_private=false">
+  <img heigth="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark&hide_border=true">
+  <img heigth="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BleithM&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </p>
 
 
