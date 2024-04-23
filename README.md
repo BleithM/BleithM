@@ -23,28 +23,48 @@
 🏠 Don't hesitate to drop me a **👋** on Discord –  [BleithM](http://discord.com/users/bleithm) my username!<br>
   
 <!--Intro end-->
-<h2 align="center" border="none">My GitHub Stats</h2>
-<p align="center">
-  <img heigth="130em" src="https://github-readme-stats.vercel.app/api?username=BleithM&theme=dark&show_icons=true&hide_border=true&count_private=false">
-  <img heigth="130em" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark&hide_border=true">
-  <img heigth="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BleithM&theme=dark&show_icons=true&hide_border=true&layout=compact">
-</p>
+
+
+<table widht="100%">
+    <th colspan="2">
+        <h2 align="center" border="none">My GitHub Stats</h2>
+    </th>
+    <tr>
+        <th>
+            <img heigth="130em" src="https://github-readme-stats.vercel.app/api?username=BleithM&theme=dark&show_icons=true&hide_border=true&count_private=false">
+        </th>
+        <th>
+            <img heigth="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark&hide_border=true">
+        </th>
+    </tr>
+    <th colspan="2">
+        <div id="user-content-toc">
+            <ul align="center">
+                <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
+            </ul>
+        </div>
+    </th>    
+    <tr height="400em">
+        <th>
+            <img heigth="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BleithM&theme=dark&show_icons=true&hide_border=true&layout=compact">
+        </th>
+        <th>
+            <p align="center">
+                <a href="https://skillicons.dev">
+                    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,vscode,git,github,gitlab,aws,bootstrap,tailwind,docker,figma,less,sass,nodejs,postman,pug,py,react,&perline=6" align="center" />
+                </a>
+            </p>
+        </th>
+    </tr>
+</table>
 
 
 
 <!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
-  </ul>
-</div>
+
 
 <!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,vscode,git,github,gitlab,aws,bootstrap,tailwind,docker,figma,less,sass,nodejs,postman,pug,py,react,&perline=14" align="center" />
-  </a>
-</p>
+
 
 <!--- snake -->
 <div align="center">
