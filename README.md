@@ -21,22 +21,18 @@
 
 <!--Intro start-->
 - 🔭 I’m currently working on **HTML, CSS, JS, Angular, NodeJS, AWS, SQL**
-
 - 🌱 I'm currently mastering the art of **assembling scalable applications** using various technologies.
-
 - ☁️ I've keen interest in the Frontend dev. So,I'm learning **JS, TypeScript, Angular, React**
-
 - 💬 Ask me about **HTML, CSS, JS, Angular, NodeJS, AWS, SQL**
-
 - 📫 Feel free to reach me out **bleithm@gmail.com**
-
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [BleithM](bleithm) my username!
 
   
 <!--Intro end--><h3>My GitHub Stats</h3>
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=algolia"/>
-  
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" /></p>
+<p>
+  <img height="180em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
+  <img height="180em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" />
+</p>
 
 <!--- snake -->
 <div align="center">
