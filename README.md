@@ -25,8 +25,8 @@
 <!--Intro end-->
 <h3 align="center">My GitHub Stats</h3>
 <p align="center" width="90%"> 
-  <img height="180em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
-  <img height="180em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" />
+  <img height="150em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
+  <img height="150em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" />
 </p>
 
 <!--- snake -->
