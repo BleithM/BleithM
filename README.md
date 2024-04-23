@@ -42,7 +42,7 @@
 <br>
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=algolia"/>
   
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="anii693" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" /></p>
 
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark" alt="BleithM" /></p>
