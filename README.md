@@ -58,7 +58,7 @@
     </tr>
 </table>
 
-
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=BleithM&theme=onedark&column=9">
 
 <!--h1 without bottom border-->
 
