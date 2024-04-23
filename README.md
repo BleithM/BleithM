@@ -1,12 +1,11 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!--Banner-->
-<img src="https://github.com/BleithM/BleithM/assets/75079865/b271ae43-7f55-4d0c-b60e-32a6bc896001">
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
+<div>
+  <!--horizontal divider(gradiant)-->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  <!--Banner-->
+  <img src="https://github.com/BleithM/BleithM/assets/75079865/b271ae43-7f55-4d0c-b60e-32a6bc896001">
+  <!--horizontal divider(gradiant)-->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
@@ -23,7 +22,7 @@
 🏠 Don't hesitate to drop me a **👋** on Discord –  [BleithM](http://discord.com/users/bleithm) my username!<br>
   
 <!--Intro end-->
-<h3 align="center">My GitHub Stats</h3>
+<h2 align="center" border="none">My GitHub Stats</h2>
 <p align="center" width="90%"> 
   <img height="150em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
   <img height="150em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" />
@@ -31,8 +30,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
 </div>
 
 
