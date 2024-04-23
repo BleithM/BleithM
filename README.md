@@ -25,14 +25,8 @@
 <h2 align="center" border="none">My GitHub Stats</h2>
 <p align="center" width="90%"> 
   <img height="150em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
-  <img height="150em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" />
+  <img height="150em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show=reviews&theme=dark&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
 </p>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg" alt="snake" /></a>
-</div>
-
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -41,14 +35,18 @@
   </ul>
 </div>
 
-
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,aws,css,discord,docker,postgres,pug,dynamodb,figma,github,html,js,linux,md,materialui,nginx,mysql,nodejs,postman,py,react,tailwind,ts,vscode,kubernetes&perline=14" />
   </a>
 </p>
+
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
