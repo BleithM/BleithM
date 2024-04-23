@@ -25,7 +25,7 @@
 <!--Intro end-->
 
 
-<table widht="100%">
+<table widht="100%" >
     <th colspan="2">
         <h2 align="center" border="none">My GitHub Stats</h2>
     </th>
