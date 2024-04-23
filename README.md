@@ -23,10 +23,13 @@
   
 <!--Intro end-->
 <h2 align="center" border="none">My GitHub Stats</h2>
-<p align="center" width="90%"> 
-  <img height="150em" aling="right" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=dark"/>
-  <img height="150em" aling="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show=reviews&theme=dark&show_icons=true,discussions_started,discussions_answered,prs_merged,prs_merged_percentage">
+<p align="center">
+  <img heigth="150em" src="https://github-readme-stats.vercel.app/api?username=BleithM&theme=dark&show_icons=true&hide_border=true&count_private=false">
+  <img heigth="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=BleithM&theme=dark&hide_border=true">
+  <img heigth="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BleithM&theme=dark&show_icons=true&hide_border=true&layout=compact">
 </p>
+
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -38,7 +41,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,vscode,git,github,gitlab,aws,bootstrap,tailwind,docker,figma,less,sass,nodejs,postman,pug,py,react,&perline=7" align="center" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,angular,ts,vscode,git,github,gitlab,aws,bootstrap,tailwind,docker,figma,less,sass,nodejs,postman,pug,py,react,&perline=14" align="center" />
   </a>
 </p>
 
