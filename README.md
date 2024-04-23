@@ -43,14 +43,17 @@
 <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bleithm&layout=compact&langs_count=8&theme=algolia"/>
   
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=BleithM&show_icons=true&theme=dark&locale=en" alt="BleithM" /></p>
-<br>
+
+
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
-<br>
+
+
+
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
